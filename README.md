@@ -1,2 +1,2 @@
 # Python-Chapter-18
-A place to store the Chapter 18 Django projects.
+A repo to store projects from Chapter 18 of the book Python Crash Course.
